@@ -4,7 +4,7 @@ An end-to-end analytics project on Olist, a brazilian e-commerce marketplace, us
 
 ## Why this project
 
-I'm a final year BBA student, and wanted something substantial that I could actually apply on job/masters applications, not justanother course certificate. Used Olist's public dataset of ~100,000 real orders with customer location, delivery, payment and review data to think through like an analyst and answer a genuine business question.
+I'm a final year BBA student, and wanted something substantial that I could actually apply on job/masters applications, not just another course certificate. Used Olist's public dataset of ~100,000 real orders with customer location, delivery, payment and review data to think through like an analyst and answer a genuine business question.
 
 ## What I was trying to uncover
 
